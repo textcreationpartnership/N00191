@@ -114,8 +114,8 @@
    <text xml:lang="eng">
       <body>
          <div type="order">
-            <pb facs="tcp:000250_0000_0FA40FFD6BAE5F80"/>
-            <pb facs="tcp:000250_0001_0FA40FFEF21F2188"/>
+            <pb facs="unknown:000250_0000_0FA40FFD6BAE5F80"/>
+            <pb facs="unknown:000250_0001_0FA40FFEF21F2188"/>
             <head>
                <figure/> AT A GENERAL COURT HELD AT Boston in New-England The
 <date>second Day of <hi>October 1678.</hi>
